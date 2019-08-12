@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1514144174 source:c:\users\jesus\nu32\pic32quickstart\contvib\continuousvibration\main.c
+	<stdio.h>
+	<stdlib.h>
+
